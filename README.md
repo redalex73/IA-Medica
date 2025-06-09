@@ -12,8 +12,3 @@ Este proyecto implementa un asistente médico conversacional en español capaz d
 4. Finalmente, sugiere una posible condición y recomendaciones generales.
 
 ⚠️ **Este sistema no reemplaza el diagnóstico médico profesional.**
-
----
-
-## 📁 Estructura del proyecto
-
