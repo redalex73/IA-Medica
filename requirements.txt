@@ -1,0 +1,6 @@
+transformers==4.40.1
+tensorflow==2.15.0
+scikit-learn==1.4.1
+joblib==1.4.2
+pandas==2.2.2
+PyQt6==6.6.1
